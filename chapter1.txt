@@ -1,1 +1,2 @@
 This is new chapter inside GitHub (breaking out of CLI).
+This is a branch statement.
